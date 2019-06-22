@@ -1,0 +1,3 @@
+export const DATA_UPDATE = "DATA_UPDATE";
+export const CHANGE_PAGE = "CHANGE_PAGE";
+export const CHANGE_SORT_COLUMN = "CHANGE_SORT_COLUMN";
